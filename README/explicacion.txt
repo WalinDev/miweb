@@ -1,0 +1,9 @@
+git diff sirve la para ver los cambios antes de pasar a staged y git diff --staged sirve para ver los cambios en staged
+
+git log --oneline sirve para ver los hash de los commit 
+
+para crear una de rama se utiliza el comando git checkout y el nombre de la rama
+
+Y para cambiar de rama se utiliza el comando git branch y el nombre de la rama 
+
+para integrar la rama que estemos utilizando a la rama master tenemos que utilizar el comando git merge y el nombre de la rama que queremos integrar 
